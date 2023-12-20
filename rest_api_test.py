@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://localhost:9090"  # Replace with your actual base URL
+BASE_URL = "http://localhost:9090" 
 
 
 def test_get_shifts_valid_params():
